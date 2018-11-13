@@ -7,7 +7,7 @@
           "template_import_log":"",
           "sys_updated_on":"2018-11-12 09:35:34",
           "u_vendor_contract_model":"Vendor Support",
-          "sys_target_sys_id":"1c741bd70b2322007518478d83673af3",
+          "sys_target_sys_id":"",
           "u_vendor_country":"",
           "sys_updated_by":"lg.csp.integration@logicalis.de",
           "u_ci_manufacturer":"",
@@ -80,7 +80,7 @@
           "u_ci_contract_operation":"Incident Management,Hardware Replacement",
           "u_ci_location_country":"",
           "u_vendor_contract_ci_ends":"",
-          "u_service_contract_operation":"SDAF0000013"
+          "u_service_contract_operation":"INC0000060"
        },
        {
           "u_ci_name":"EMC - NETWORKER FAST START WITH AUTOCHANGER FOR WINDOWS - CMD-CI-0000010667",
@@ -89,7 +89,7 @@
           "template_import_log":"",
           "sys_updated_on":"2018-11-12 09:35:35",
           "u_vendor_contract_model":"Vendor Support",
-          "sys_target_sys_id":"1c741bd70b2322007518478d83673af3",
+          "sys_target_sys_id":"",
           "u_vendor_country":"",
           "sys_updated_by":"lg.csp.integration@logicalis.de",
           "u_ci_manufacturer":"",
@@ -162,7 +162,7 @@
           "u_ci_contract_operation":"Incident Management,Hardware Replacement",
           "u_ci_location_country":"",
           "u_vendor_contract_ci_ends":"",
-          "u_service_contract_operation":"SDAF0000013"
+          "u_service_contract_operation":"INC0000060"
        },
        {
           "u_ci_name":"inforsacom Inf. GmbH - inforsacom Service Desk Service Level 1 - CMD-CI-0000071698",
@@ -171,7 +171,7 @@
           "template_import_log":"",
           "sys_updated_on":"2018-11-12 09:35:36",
           "u_vendor_contract_model":"Vendor Support",
-          "sys_target_sys_id":"1c741bd70b2322007518478d83673af3",
+          "sys_target_sys_id":"",
           "u_vendor_country":"",
           "sys_updated_by":"lg.csp.integration@logicalis.de",
           "u_ci_manufacturer":"",
@@ -244,7 +244,7 @@
           "u_ci_contract_operation":"Incident Management,Hardware Replacement",
           "u_ci_location_country":"",
           "u_vendor_contract_ci_ends":"",
-          "u_service_contract_operation":"SDAF0000013"
+          "u_service_contract_operation":"INC0000059"
        },
        {
           "u_ci_name":"inforsacom Inf. GmbH - inforsacom Service Desk Service Level 1 - CMD-CI-0000071698",
@@ -253,7 +253,7 @@
           "template_import_log":"",
           "sys_updated_on":"2018-11-12 09:35:36",
           "u_vendor_contract_model":"Vendor Support",
-          "sys_target_sys_id":"85071a1347c12200e0ef563dbb9a71c1",
+          "sys_target_sys_id":"30c9d0a0db3d23005842f9b41d96199f",
           "u_vendor_country":"",
           "sys_updated_by":"lg.csp.integration@logicalis.de",
           "u_ci_manufacturer":"",
@@ -326,7 +326,7 @@
           "u_ci_contract_operation":"Incident Management,Hardware Replacement",
           "u_ci_location_country":"",
           "u_vendor_contract_ci_ends":"",
-          "u_service_contract_operation":"SDAF0000013"
+          "u_service_contract_operation":"INC0000059"
        },
        {
           "u_ci_name":"inforsacom Inf. GmbH - inforsacom EMC NetWorker Support First- und SecondLevel-S - CMD-CI-0000008674",
@@ -335,7 +335,7 @@
           "template_import_log":"",
           "sys_updated_on":"2018-11-12 09:35:33",
           "u_vendor_contract_model":"Vendor Support",
-          "sys_target_sys_id":"85071a1347c12200e0ef563dbb9a71c1",
+          "sys_target_sys_id":"30c9d0a0db3d23005842f9b41d96199f",
           "u_vendor_country":"",
           "sys_updated_by":"lg.csp.integration@logicalis.de",
           "u_ci_manufacturer":"",
@@ -408,7 +408,7 @@
           "u_ci_contract_operation":"Incident Management,Hardware Replacement",
           "u_ci_location_country":"",
           "u_vendor_contract_ci_ends":"",
-          "u_service_contract_operation":"SDAF0000013"
+          "u_service_contract_operation":"INC0000059"
        },
        {
           "u_ci_name":"inforsacom Inf. GmbH - inforsacom Lizenzverwaltung - CMD-CI-0000069604",
@@ -417,7 +417,7 @@
           "template_import_log":"",
           "sys_updated_on":"2018-11-12 09:35:36",
           "u_vendor_contract_model":"Vendor Support",
-          "sys_target_sys_id":"85071a1347c12200e0ef563dbb9a71c1",
+          "sys_target_sys_id":"30c9d0a0db3d23005842f9b41d96199f",
           "u_vendor_country":"",
           "sys_updated_by":"lg.csp.integration@logicalis.de",
           "u_ci_manufacturer":"",
@@ -490,7 +490,7 @@
           "u_ci_contract_operation":"Incident Management,Hardware Replacement",
           "u_ci_location_country":"",
           "u_vendor_contract_ci_ends":"",
-          "u_service_contract_operation":"SDAF0000013"
+          "u_service_contract_operation":"INC0000060"
        },
        {
           "u_ci_name":"inforsacom Inf. GmbH - inforsacom Lizenzverwaltung - CMD-CI-0000069604",
@@ -499,7 +499,7 @@
           "template_import_log":"",
           "sys_updated_on":"2018-11-12 09:35:36",
           "u_vendor_contract_model":"Vendor Support",
-          "sys_target_sys_id":"85071a1347c12200e0ef563dbb9a71c1",
+          "sys_target_sys_id":"",
           "u_vendor_country":"",
           "sys_updated_by":"lg.csp.integration@logicalis.de",
           "u_ci_manufacturer":"",
@@ -572,7 +572,7 @@
           "u_ci_contract_operation":"Incident Management,Hardware Replacement",
           "u_ci_location_country":"",
           "u_vendor_contract_ci_ends":"",
-          "u_service_contract_operation":"SDAF0000013"
+          "u_service_contract_operation":"INC0000059"
        }
     ]
  }
