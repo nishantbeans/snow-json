@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+<u_fci_import>
+<import_set_run>91c914a0db3d23005842f9b41d961925</import_set_run>
+<sys_class_name>u_fci_import</sys_class_name>
+<sys_created_by>lg.csp.integration@logicalis.de</sys_created_by>
+<sys_created_on>2018-11-12 09:35:36</sys_created_on>
+<sys_id>d5c914a0db3d23005842f9b41d961937</sys_id>
+<sys_import_row>2</sys_import_row>
+<sys_import_set>e4c9d0a0db3d23005842f9b41d961995</sys_import_set>
+<sys_import_state>skipped</sys_import_state>
+<sys_import_state_comment>Unable to resolve target record, coalesce values not present: u_vendor_contract_number</sys_import_state_comment>
+<sys_mod_count>2</sys_mod_count>
+<sys_row_error>d1c914a0db3d23005842f9b41d961938</sys_row_error>
+<sys_target_sys_id>30c9d0a0db3d23005842f9b41d96199f</sys_target_sys_id>
+<sys_target_table>ast_service</sys_target_table>
+<sys_transform_map>21265cda4f61e2007325a4eab110c763</sys_transform_map>
+<sys_updated_by>lg.csp.integration@logicalis.de</sys_updated_by>
+<sys_updated_on>2018-11-12 09:35:36</sys_updated_on>
+<template_import_log/>
+<u_ci_asset_tag/>
+<u_ci_comments/>
+<u_ci_contract_operation>Incident Management,Hardware Replacement</u_ci_contract_operation>
+<u_ci_cost>0.0000</u_ci_cost>
+<u_ci_cost_currency>USD</u_ci_cost_currency>
+<u_ci_hostname/>
+<u_ci_impact>3</u_ci_impact>
+<u_ci_install_date/>
+<u_ci_install_status>1</u_ci_install_status>
+<u_ci_ip_address/>
+<u_ci_location_city/>
+<u_ci_location_country/>
+<u_ci_location_name>DIS Dräxlmaier Industrial Solutions GmbH - KT0003977</u_ci_location_name>
+<u_ci_location_phone/>
+<u_ci_location_state/>
+<u_ci_location_street/>
+<u_ci_location_zip/>
+<u_ci_manufacturer/>
+<u_ci_model>009-2011-287</u_ci_model>
+<u_ci_name>inforsacom Inf. GmbH - inforsacom Lizenzverwaltung - CMD-CI-0000069604</u_ci_name>
+<u_ci_number>CI000006416631</u_ci_number>
+<u_ci_parent/>
+<u_ci_po_number/>
+<u_ci_quantity>1</u_ci_quantity>
+<u_ci_serial_number/>
+<u_ci_so_number/>
+<u_ci_special_instructions/>
+<u_ci_support_group>DE.Backup</u_ci_support_group>
+<u_company>DIS Dräxlmaier Industrial Solutions GmbH - 605718</u_company>
+<u_country>Germany</u_country>
+<u_location_city/>
+<u_location_country/>
+<u_location_name/>
+<u_location_phone/>
+<u_location_state/>
+<u_location_street/>
+<u_location_zip/>
+<u_operating_models>Incident Management,Hardware Replacement</u_operating_models>
+<u_service_contract_ci_ends>2013-07-31</u_service_contract_ci_ends>
+<u_service_contract_ci_starts>2012-11-01</u_service_contract_ci_starts>
+<u_service_contract_end>2013-08-25</u_service_contract_end>
+<u_service_contract_model>Service Contract</u_service_contract_model>
+<u_service_contract_number>1AU1012303</u_service_contract_number>
+<u_service_contract_operation>SDAF0000013</u_service_contract_operation>
+<u_service_contract_parent/>
+<u_service_contract_portfolio/>
+<u_service_contract_start>2012-11-26</u_service_contract_start>
+<u_service_definition>Support &amp; Maintenance - Backup</u_service_definition>
+<u_service_sla_package>IFC SL1</u_service_sla_package>
+<u_vendor/>
+<u_vendor_contract/>
+<u_vendor_contract_ci_ends/>
+<u_vendor_contract_ci_starts/>
+<u_vendor_contract_end>2013-07-31</u_vendor_contract_end>
+<u_vendor_contract_model>Vendor Support</u_vendor_contract_model>
+<u_vendor_contract_number/>
+<u_vendor_contract_start>2012-11-01</u_vendor_contract_start>
+<u_vendor_country/>
+<u_vendor_po_number/>
+<u_vendor_sla_package>inforsacom Service Level-SL1</u_vendor_sla_package>
+<u_vendor_so_number/>
+</u_fci_import>
+<u_fci_import>
+<import_set_run>29c914a0db3d23005842f9b41d961947</import_set_run>
+<sys_class_name>u_fci_import</sys_class_name>
+<sys_created_by>lg.csp.integration@logicalis.de</sys_created_by>
+<sys_created_on>2018-11-12 09:35:36</sys_created_on>
+<sys_id>a5c914a0db3d23005842f9b41d96194d</sys_id>
+<sys_import_row>3</sys_import_row>
+<sys_import_set>e4c9d0a0db3d23005842f9b41d961995</sys_import_set>
+<sys_import_state>skipped</sys_import_state>
+<sys_import_state_comment>Unable to resolve target record, coalesce values not present: u_vendor_contract_number</sys_import_state_comment>
+<sys_mod_count>2</sys_mod_count>
+<sys_row_error>a1c914a0db3d23005842f9b41d96194e</sys_row_error>
+<sys_target_sys_id>30c9d0a0db3d23005842f9b41d96199f</sys_target_sys_id>
+<sys_target_table>ast_service</sys_target_table>
+<sys_transform_map>21265cda4f61e2007325a4eab110c763</sys_transform_map>
+<sys_updated_by>lg.csp.integration@logicalis.de</sys_updated_by>
+<sys_updated_on>2018-11-12 09:35:36</sys_updated_on>
+<template_import_log/>
+<u_ci_asset_tag/>
+<u_ci_comments/>
+<u_ci_contract_operation>Incident Management,Hardware Replacement</u_ci_contract_operation>
+<u_ci_cost>0.0000</u_ci_cost>
+<u_ci_cost_currency>USD</u_ci_cost_currency>
+<u_ci_hostname/>
+<u_ci_impact>3</u_ci_impact>
+<u_ci_install_date/>
+<u_ci_install_status>1</u_ci_install_status>
+<u_ci_ip_address/>
+<u_ci_location_city/>
+<u_ci_location_country/>
+<u_ci_location_name>DIS Dräxlmaier Industrial Solutions GmbH - KT0003977</u_ci_location_name>
+<u_ci_location_phone/>
+<u_ci_location_state/>
+<u_ci_location_street/>
+<u_ci_location_zip/>
+<u_ci_manufacturer/>
+<u_ci_model>009-2011-287</u_ci_model>
+<u_ci_name>inforsacom Inf. GmbH - inforsacom Service Desk Service Level 1 - CMD-CI-0000071698</u_ci_name>
+<u_ci_number>CI000006416632</u_ci_number>
+<u_ci_parent/>
+<u_ci_po_number/>
+<u_ci_quantity>1</u_ci_quantity>
+<u_ci_serial_number/>
+<u_ci_so_number/>
+<u_ci_special_instructions/>
+<u_ci_support_group>DE.Backup</u_ci_support_group>
+<u_company>DIS Dräxlmaier Industrial Solutions GmbH - 605718</u_company>
+<u_country>Germany</u_country>
+<u_location_city/>
+<u_location_country/>
+<u_location_name/>
+<u_location_phone/>
+<u_location_state/>
+<u_location_street/>
+<u_location_zip/>
+<u_operating_models>Incident Management,Hardware Replacement</u_operating_models>
+<u_service_contract_ci_ends>2013-07-31</u_service_contract_ci_ends>
+<u_service_contract_ci_starts>2012-11-01</u_service_contract_ci_starts>
+<u_service_contract_end>2013-08-25</u_service_contract_end>
+<u_service_contract_model>Service Contract</u_service_contract_model>
+<u_service_contract_number>1AU1012303</u_service_contract_number>
+<u_service_contract_operation>SDAF0000013</u_service_contract_operation>
+<u_service_contract_parent/>
+<u_service_contract_portfolio/>
+<u_service_contract_start>2012-11-26</u_service_contract_start>
+<u_service_definition>Support &amp; Maintenance - Backup</u_service_definition>
+<u_service_sla_package>IFC SL1</u_service_sla_package>
+<u_vendor/>
+<u_vendor_contract/>
+<u_vendor_contract_ci_ends/>
+<u_vendor_contract_ci_starts/>
+<u_vendor_contract_end>2013-07-31</u_vendor_contract_end>
+<u_vendor_contract_model>Vendor Support</u_vendor_contract_model>
+<u_vendor_contract_number/>
+<u_vendor_contract_start>2012-11-01</u_vendor_contract_start>
+<u_vendor_country/>
+<u_vendor_po_number/>
+<u_vendor_sla_package>inforsacom Service Level-SL1</u_vendor_sla_package>
+<u_vendor_so_number/>
+</u_fci_import>
+<u_fci_import>
+<import_set_run>1dc914a0db3d23005842f9b41d961925</import_set_run>
+<sys_class_name>u_fci_import</sys_class_name>
+<sys_created_by>lg.csp.integration@logicalis.de</sys_created_by>
+<sys_created_on>2018-11-12 09:35:36</sys_created_on>
+<sys_id>e1c914a0db3d23005842f9b41d96193e</sys_id>
+<sys_import_row>2</sys_import_row>
+<sys_import_set>e4c9d0a0db3d23005842f9b41d961995</sys_import_set>
+<sys_import_state>ignored</sys_import_state>
+<sys_import_state_comment>Vendor Contract Number is empty, mandatory field
+;Row transform ignored by onBefore script</sys_import_state_comment>
+<sys_mod_count>2</sys_mod_count>
+<sys_row_error/>
+<sys_target_sys_id/>
+<sys_target_table>contract_rel_ci</sys_target_table>
+<sys_transform_map>b0f1cd164fa1e2007325a4eab110c7f9</sys_transform_map>
+<sys_updated_by>lg.csp.integration@logicalis.de</sys_updated_by>
+<sys_updated_on>2018-11-12 09:35:36</sys_updated_on>
+<template_import_log/>
+<u_ci_asset_tag/>
+<u_ci_comments/>
+<u_ci_contract_operation>Incident Management,Hardware Replacement</u_ci_contract_operation>
+<u_ci_cost>0.0000</u_ci_cost>
+<u_ci_cost_currency>USD</u_ci_cost_currency>
+<u_ci_hostname/>
+<u_ci_impact>3</u_ci_impact>
+<u_ci_install_date/>
+<u_ci_install_status>1</u_ci_install_status>
+<u_ci_ip_address/>
+<u_ci_location_city/>
+<u_ci_location_country/>
+<u_ci_location_name>DIS Dräxlmaier Industrial Solutions GmbH - KT0003977</u_ci_location_name>
+<u_ci_location_phone/>
+<u_ci_location_state/>
+<u_ci_location_street/>
+<u_ci_location_zip/>
+<u_ci_manufacturer/>
+<u_ci_model>009-2011-287</u_ci_model>
+<u_ci_name>inforsacom Inf. GmbH - inforsacom Lizenzverwaltung - CMD-CI-0000069604</u_ci_name>
+<u_ci_number>CI000006416631</u_ci_number>
+<u_ci_parent/>
+<u_ci_po_number/>
+<u_ci_quantity>1</u_ci_quantity>
+<u_ci_serial_number/>
+<u_ci_so_number/>
+<u_ci_special_instructions/>
+<u_ci_support_group>DE.Backup</u_ci_support_group>
+<u_company>DIS Dräxlmaier Industrial Solutions GmbH - 605718</u_company>
+<u_country>Germany</u_country>
+<u_location_city/>
+<u_location_country/>
+<u_location_name/>
+<u_location_phone/>
+<u_location_state/>
+<u_location_street/>
+<u_location_zip/>
+<u_operating_models>Incident Management,Hardware Replacement</u_operating_models>
+<u_service_contract_ci_ends>2013-07-31</u_service_contract_ci_ends>
+<u_service_contract_ci_starts>2012-11-01</u_service_contract_ci_starts>
+<u_service_contract_end>2013-08-25</u_service_contract_end>
+<u_service_contract_model>Service Contract</u_service_contract_model>
+<u_service_contract_number>1AU1012303</u_service_contract_number>
+<u_service_contract_operation>SDAF0000013</u_service_contract_operation>
+<u_service_contract_parent/>
+<u_service_contract_portfolio/>
+<u_service_contract_start>2012-11-26</u_service_contract_start>
+<u_service_definition>Support &amp; Maintenance - Backup</u_service_definition>
+<u_service_sla_package>IFC SL1</u_service_sla_package>
+<u_vendor/>
+<u_vendor_contract/>
+<u_vendor_contract_ci_ends/>
+<u_vendor_contract_ci_starts/>
+<u_vendor_contract_end>2013-07-31</u_vendor_contract_end>
+<u_vendor_contract_model>Vendor Support</u_vendor_contract_model>
+<u_vendor_contract_number/>
+<u_vendor_contract_start>2012-11-01</u_vendor_contract_start>
+<u_vendor_country/>
+<u_vendor_po_number/>
+<u_vendor_sla_package>inforsacom Service Level-SL1</u_vendor_sla_package>
+<u_vendor_so_number/>
+</u_fci_import>
+<u_fci_import>
+<import_set_run>a1c914a0db3d23005842f9b41d961948</import_set_run>
+<sys_class_name>u_fci_import</sys_class_name>
+<sys_created_by>lg.csp.integration@logicalis.de</sys_created_by>
+<sys_created_on>2018-11-12 09:35:36</sys_created_on>
+<sys_id>a1c914a0db3d23005842f9b41d961954</sys_id>
+<sys_import_row>3</sys_import_row>
+<sys_import_set>e4c9d0a0db3d23005842f9b41d961995</sys_import_set>
+<sys_import_state>ignored</sys_import_state>
+<sys_import_state_comment>Vendor Contract Number is empty, mandatory field
+;Row transform ignored by onBefore script</sys_import_state_comment>
+<sys_mod_count>2</sys_mod_count>
+<sys_row_error/>
+<sys_target_sys_id/>
+<sys_target_table>contract_rel_ci</sys_target_table>
+<sys_transform_map>b0f1cd164fa1e2007325a4eab110c7f9</sys_transform_map>
+<sys_updated_by>lg.csp.integration@logicalis.de</sys_updated_by>
+<sys_updated_on>2018-11-12 09:35:36</sys_updated_on>
+<template_import_log/>
+<u_ci_asset_tag/>
+<u_ci_comments/>
+<u_ci_contract_operation>Incident Management,Hardware Replacement</u_ci_contract_operation>
+<u_ci_cost>0.0000</u_ci_cost>
+<u_ci_cost_currency>USD</u_ci_cost_currency>
+<u_ci_hostname/>
+<u_ci_impact>3</u_ci_impact>
+<u_ci_install_date/>
+<u_ci_install_status>1</u_ci_install_status>
+<u_ci_ip_address/>
+<u_ci_location_city/>
+<u_ci_location_country/>
+<u_ci_location_name>DIS Dräxlmaier Industrial Solutions GmbH - KT0003977</u_ci_location_name>
+<u_ci_location_phone/>
+<u_ci_location_state/>
+<u_ci_location_street/>
+<u_ci_location_zip/>
+<u_ci_manufacturer/>
+<u_ci_model>009-2011-287</u_ci_model>
+<u_ci_name>inforsacom Inf. GmbH - inforsacom Service Desk Service Level 1 - CMD-CI-0000071698</u_ci_name>
+<u_ci_number>CI000006416632</u_ci_number>
+<u_ci_parent/>
+<u_ci_po_number/>
+<u_ci_quantity>1</u_ci_quantity>
+<u_ci_serial_number/>
+<u_ci_so_number/>
+<u_ci_special_instructions/>
+<u_ci_support_group>DE.Backup</u_ci_support_group>
+<u_company>DIS Dräxlmaier Industrial Solutions GmbH - 605718</u_company>
+<u_country>Germany</u_country>
+<u_location_city/>
+<u_location_country/>
+<u_location_name/>
+<u_location_phone/>
+<u_location_state/>
+<u_location_street/>
+<u_location_zip/>
+<u_operating_models>Incident Management,Hardware Replacement</u_operating_models>
+<u_service_contract_ci_ends>2013-07-31</u_service_contract_ci_ends>
+<u_service_contract_ci_starts>2012-11-01</u_service_contract_ci_starts>
+<u_service_contract_end>2013-08-25</u_service_contract_end>
+<u_service_contract_model>Service Contract</u_service_contract_model>
+<u_service_contract_number>1AU1012303</u_service_contract_number>
+<u_service_contract_operation>SDAF0000013</u_service_contract_operation>
+<u_service_contract_parent/>
+<u_service_contract_portfolio/>
+<u_service_contract_start>2012-11-26</u_service_contract_start>
+<u_service_definition>Support &amp; Maintenance - Backup</u_service_definition>
+<u_service_sla_package>IFC SL1</u_service_sla_package>
+<u_vendor/>
+<u_vendor_contract/>
+<u_vendor_contract_ci_ends/>
+<u_vendor_contract_ci_starts/>
+<u_vendor_contract_end>2013-07-31</u_vendor_contract_end>
+<u_vendor_contract_model>Vendor Support</u_vendor_contract_model>
+<u_vendor_contract_number/>
+<u_vendor_contract_start>2012-11-01</u_vendor_contract_start>
+<u_vendor_country/>
+<u_vendor_po_number/>
+<u_vendor_sla_package>inforsacom Service Level-SL1</u_vendor_sla_package>
+<u_vendor_so_number/>
+</u_fci_import>
+<u_fci_import>
+<import_set_run>d1c914a0db3d23005842f9b41d96190b</import_set_run>
+<sys_class_name>u_fci_import</sys_class_name>
+<sys_created_by>lg.csp.integration@logicalis.de</sys_created_by>
+<sys_created_on>2018-11-12 09:35:35</sys_created_on>
+<sys_id>59c914a0db3d23005842f9b41d96191b</sys_id>
+<sys_import_row>1</sys_import_row>
+<sys_import_set>e4c9d0a0db3d23005842f9b41d961995</sys_import_set>
+<sys_import_state>ignored</sys_import_state>
+<sys_import_state_comment>Vendor Contract CI Starts is empty, mandatory field
+Vendor Contract CI Ends is empty, mandatory field
+;Row transform ignored by onBefore script</sys_import_state_comment>
+<sys_mod_count>2</sys_mod_count>
+<sys_row_error/>
+<sys_target_sys_id/>
+<sys_target_table>contract_rel_ci</sys_target_table>
+<sys_transform_map>b0f1cd164fa1e2007325a4eab110c7f9</sys_transform_map>
+<sys_updated_by>lg.csp.integration@logicalis.de</sys_updated_by>
+<sys_updated_on>2018-11-12 09:35:35</sys_updated_on>
+<template_import_log/>
+<u_ci_asset_tag/>
+<u_ci_comments/>
+<u_ci_contract_operation>Incident Management,Hardware Replacement</u_ci_contract_operation>
+<u_ci_cost>13.3000</u_ci_cost>
+<u_ci_cost_currency>USD</u_ci_cost_currency>
+<u_ci_hostname/>
+<u_ci_impact>3</u_ci_impact>
+<u_ci_install_date/>
+<u_ci_install_status>1</u_ci_install_status>
+<u_ci_ip_address/>
+<u_ci_location_city/>
+<u_ci_location_country/>
+<u_ci_location_name>DIS Dräxlmaier Industrial Solutions GmbH - KT0003977</u_ci_location_name>
+<u_ci_location_phone/>
+<u_ci_location_state/>
+<u_ci_location_street/>
+<u_ci_location_zip/>
+<u_ci_manufacturer/>
+<u_ci_model>009-2011-287</u_ci_model>
+<u_ci_name>EMC - NETWORKER FAST START WITH AUTOCHANGER FOR WINDOWS - CMD-CI-0000010667</u_ci_name>
+<u_ci_number>CI000006416630</u_ci_number>
+<u_ci_parent/>
+<u_ci_po_number/>
+<u_ci_quantity>1</u_ci_quantity>
+<u_ci_serial_number/>
+<u_ci_so_number/>
+<u_ci_special_instructions/>
+<u_ci_support_group>DE.Backup</u_ci_support_group>
+<u_company>DIS Dräxlmaier Industrial Solutions GmbH - 605718</u_company>
+<u_country>Germany</u_country>
+<u_location_city/>
+<u_location_country/>
+<u_location_name/>
+<u_location_phone/>
+<u_location_state/>
+<u_location_street/>
+<u_location_zip/>
+<u_operating_models>Incident Management,Hardware Replacement</u_operating_models>
+<u_service_contract_ci_ends>2013-08-25</u_service_contract_ci_ends>
+<u_service_contract_ci_starts>2012-11-26</u_service_contract_ci_starts>
+<u_service_contract_end>2013-08-25</u_service_contract_end>
+<u_service_contract_model>Service Contract</u_service_contract_model>
+<u_service_contract_number>1AU1012303</u_service_contract_number>
+<u_service_contract_operation>SDAF0000013</u_service_contract_operation>
+<u_service_contract_parent/>
+<u_service_contract_portfolio/>
+<u_service_contract_start>2012-11-26</u_service_contract_start>
+<u_service_definition>Support &amp; Maintenance - Backup</u_service_definition>
+<u_service_sla_package>IFC SL1</u_service_sla_package>
+<u_vendor>TIM AG - 500297</u_vendor>
+<u_vendor_contract/>
+<u_vendor_contract_ci_ends/>
+<u_vendor_contract_ci_starts/>
+<u_vendor_contract_end>2013-08-25</u_vendor_contract_end>
+<u_vendor_contract_model>Vendor Support</u_vendor_contract_model>
+<u_vendor_contract_number>1EB4619622</u_vendor_contract_number>
+<u_vendor_contract_start>2012-11-26</u_vendor_contract_start>
+<u_vendor_country/>
+<u_vendor_po_number/>
+<u_vendor_sla_package/>
+<u_vendor_so_number/>
+</u_fci_import>
+<u_fci_import>
+<import_set_run>20c9d0a0db3d23005842f9b41d961999</import_set_run>
+<sys_class_name>u_fci_import</sys_class_name>
+<sys_created_by>lg.csp.integration@logicalis.de</sys_created_by>
+<sys_created_on>2018-11-12 09:35:34</sys_created_on>
+<sys_id>01c9d0a0db3d23005842f9b41d9619fd</sys_id>
+<sys_import_row>0</sys_import_row>
+<sys_import_set>e4c9d0a0db3d23005842f9b41d961995</sys_import_set>
+<sys_import_state>ignored</sys_import_state>
+<sys_import_state_comment>Vendor Contract Number is empty, mandatory field
+;Row transform ignored by onBefore script</sys_import_state_comment>
+<sys_mod_count>2</sys_mod_count>
+<sys_row_error/>
+<sys_target_sys_id/>
+<sys_target_table>contract_rel_ci</sys_target_table>
+<sys_transform_map>b0f1cd164fa1e2007325a4eab110c7f9</sys_transform_map>
+<sys_updated_by>lg.csp.integration@logicalis.de</sys_updated_by>
+<sys_updated_on>2018-11-12 09:35:34</sys_updated_on>
+<template_import_log/>
+<u_ci_asset_tag/>
+<u_ci_comments/>
+<u_ci_contract_operation>Incident Management,Hardware Replacement</u_ci_contract_operation>
+<u_ci_cost>4174.3500</u_ci_cost>
+<u_ci_cost_currency>USD</u_ci_cost_currency>
+<u_ci_hostname/>
+<u_ci_impact>3</u_ci_impact>
+<u_ci_install_date/>
+<u_ci_install_status>1</u_ci_install_status>
+<u_ci_ip_address/>
+<u_ci_location_city/>
+<u_ci_location_country/>
+<u_ci_location_name>DIS Dräxlmaier Industrial Solutions GmbH - KT0003977</u_ci_location_name>
+<u_ci_location_phone/>
+<u_ci_location_state/>
+<u_ci_location_street/>
+<u_ci_location_zip/>
+<u_ci_manufacturer/>
+<u_ci_model>009-2011-287</u_ci_model>
+<u_ci_name>inforsacom Inf. GmbH - inforsacom EMC NetWorker Support First- und SecondLevel-S - CMD-CI-0000008674</u_ci_name>
+<u_ci_number>CI000006416629</u_ci_number>
+<u_ci_parent/>
+<u_ci_po_number/>
+<u_ci_quantity>1</u_ci_quantity>
+<u_ci_serial_number/>
+<u_ci_so_number/>
+<u_ci_special_instructions/>
+<u_ci_support_group>DE.Backup</u_ci_support_group>
+<u_company>DIS Dräxlmaier Industrial Solutions GmbH - 605718</u_company>
+<u_country>Germany</u_country>
+<u_location_city/>
+<u_location_country/>
+<u_location_name/>
+<u_location_phone/>
+<u_location_state/>
+<u_location_street/>
+<u_location_zip/>
+<u_operating_models>Incident Management,Hardware Replacement</u_operating_models>
+<u_service_contract_ci_ends>2013-07-31</u_service_contract_ci_ends>
+<u_service_contract_ci_starts>2012-11-01</u_service_contract_ci_starts>
+<u_service_contract_end>2013-08-25</u_service_contract_end>
+<u_service_contract_model>Service Contract</u_service_contract_model>
+<u_service_contract_number>1AU1012303</u_service_contract_number>
+<u_service_contract_operation>SDAF0000013</u_service_contract_operation>
+<u_service_contract_parent/>
+<u_service_contract_portfolio/>
+<u_service_contract_start>2012-11-26</u_service_contract_start>
+<u_service_definition>Support &amp; Maintenance - Backup</u_service_definition>
+<u_service_sla_package>IFC SL1</u_service_sla_package>
+<u_vendor/>
+<u_vendor_contract/>
+<u_vendor_contract_ci_ends/>
+<u_vendor_contract_ci_starts/>
+<u_vendor_contract_end>2013-07-31</u_vendor_contract_end>
+<u_vendor_contract_model>Vendor Support</u_vendor_contract_model>
+<u_vendor_contract_number/>
+<u_vendor_contract_start>2012-11-01</u_vendor_contract_start>
+<u_vendor_country/>
+<u_vendor_po_number/>
+<u_vendor_sla_package>inforsacom Service Level-SL1</u_vendor_sla_package>
+<u_vendor_so_number/>
+</u_fci_import>
+<u_fci_import>
+<import_set_run>acc9d0a0db3d23005842f9b41d961997</import_set_run>
+<sys_class_name>u_fci_import</sys_class_name>
+<sys_created_by>lg.csp.integration@logicalis.de</sys_created_by>
+<sys_created_on>2018-11-12 09:35:33</sys_created_on>
+<sys_id>b8c9d0a0db3d23005842f9b41d9619a5</sys_id>
+<sys_import_row>0</sys_import_row>
+<sys_import_set>e4c9d0a0db3d23005842f9b41d961995</sys_import_set>
+<sys_import_state>skipped</sys_import_state>
+<sys_import_state_comment>Unable to resolve target record, coalesce values not present: u_vendor_contract_number</sys_import_state_comment>
+<sys_mod_count>2</sys_mod_count>
+<sys_row_error>b8c9d0a0db3d23005842f9b41d9619a6</sys_row_error>
+<sys_target_sys_id>30c9d0a0db3d23005842f9b41d96199f</sys_target_sys_id>
+<sys_target_table>ast_service</sys_target_table>
+<sys_transform_map>21265cda4f61e2007325a4eab110c763</sys_transform_map>
+<sys_updated_by>lg.csp.integration@logicalis.de</sys_updated_by>
+<sys_updated_on>2018-11-12 09:35:33</sys_updated_on>
+<template_import_log/>
+<u_ci_asset_tag/>
+<u_ci_comments/>
+<u_ci_contract_operation>Incident Management,Hardware Replacement</u_ci_contract_operation>
+<u_ci_cost>4174.3500</u_ci_cost>
+<u_ci_cost_currency>USD</u_ci_cost_currency>
+<u_ci_hostname/>
+<u_ci_impact>3</u_ci_impact>
+<u_ci_install_date/>
+<u_ci_install_status>1</u_ci_install_status>
+<u_ci_ip_address/>
+<u_ci_location_city/>
+<u_ci_location_country/>
+<u_ci_location_name>DIS Dräxlmaier Industrial Solutions GmbH - KT0003977</u_ci_location_name>
+<u_ci_location_phone/>
+<u_ci_location_state/>
+<u_ci_location_street/>
+<u_ci_location_zip/>
+<u_ci_manufacturer/>
+<u_ci_model>009-2011-287</u_ci_model>
+<u_ci_name>inforsacom Inf. GmbH - inforsacom EMC NetWorker Support First- und SecondLevel-S - CMD-CI-0000008674</u_ci_name>
+<u_ci_number>CI000006416629</u_ci_number>
+<u_ci_parent/>
+<u_ci_po_number/>
+<u_ci_quantity>1</u_ci_quantity>
+<u_ci_serial_number/>
+<u_ci_so_number/>
+<u_ci_special_instructions/>
+<u_ci_support_group>DE.Backup</u_ci_support_group>
+<u_company>DIS Dräxlmaier Industrial Solutions GmbH - 605718</u_company>
+<u_country>Germany</u_country>
+<u_location_city/>
+<u_location_country/>
+<u_location_name/>
+<u_location_phone/>
+<u_location_state/>
+<u_location_street/>
+<u_location_zip/>
+<u_operating_models>Incident Management,Hardware Replacement</u_operating_models>
+<u_service_contract_ci_ends>2013-07-31</u_service_contract_ci_ends>
+<u_service_contract_ci_starts>2012-11-01</u_service_contract_ci_starts>
+<u_service_contract_end>2013-08-25</u_service_contract_end>
+<u_service_contract_model>Service Contract</u_service_contract_model>
+<u_service_contract_number>1AU1012303</u_service_contract_number>
+<u_service_contract_operation>SDAF0000013</u_service_contract_operation>
+<u_service_contract_parent/>
+<u_service_contract_portfolio/>
+<u_service_contract_start>2012-11-26</u_service_contract_start>
+<u_service_definition>Support &amp; Maintenance - Backup</u_service_definition>
+<u_service_sla_package>IFC SL1</u_service_sla_package>
+<u_vendor/>
+<u_vendor_contract/>
+<u_vendor_contract_ci_ends/>
+<u_vendor_contract_ci_starts/>
+<u_vendor_contract_end>2013-07-31</u_vendor_contract_end>
+<u_vendor_contract_model>Vendor Support</u_vendor_contract_model>
+<u_vendor_contract_number/>
+<u_vendor_contract_start>2012-11-01</u_vendor_contract_start>
+<u_vendor_country/>
+<u_vendor_po_number/>
+<u_vendor_sla_package>inforsacom Service Level-SL1</u_vendor_sla_package>
+<u_vendor_so_number/>
+</u_fci_import>
+</xml>
